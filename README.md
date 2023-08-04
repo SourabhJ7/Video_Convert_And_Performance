@@ -12,6 +12,12 @@ python Video_Converter.py
 
 ![image](https://github.com/SourabhJ7/Video_Convert_And_Performance/assets/80623989/0f6ea9ec-68c7-4075-ad0b-aadf40fc710c)
 
-4) Then we have to select the video file and Press on Convert Button to convert file from one format 
-5) After conversion, We will compare the performance. For that we need to press Compare Performance button
+4) After that we have Select format in which we want to convert the file as below
+   We need to select output format
+
+![image](https://github.com/SourabhJ7/Video_Convert_And_Performance/assets/80623989/4e8cb635-14c3-4edb-8da9-03afc948b380)
+
+
+6) Then we have to select the video file and Press on Convert Button to convert file from one format 
+7) After conversion, We will compare the performance. For that we need to press Compare Performance button
    
